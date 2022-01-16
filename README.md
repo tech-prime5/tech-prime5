@@ -3,17 +3,16 @@
 
 ### hey there, I’m @tech-prime5 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👀 I’m interested in Backend as well as frontend development...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-<!-- 📫 How to reach me ... -->
+- 👀 I’m interested in Backend as well as frontend development.
+- 🌱 I’m currently learning anything interesting
+- 💞️ I’m looking to collaborate on any new technologies
 - 💼 any freelance work? do reach, [email](mailto:bizarro408@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/techprime" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 ### Connect with me:
