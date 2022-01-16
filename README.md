@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 👀 I’m interested in Backend as well as frontend development.
 - 🌱 I’m currently learning anything interesting
 - 💞️ I’m looking to collaborate on any new technologies
-- 💼 any freelance work? do reach, [email](mailto:bizarro408@gmail.com) :)
+- 💼 any freelance work? do reach, ✨ [email](mailto:bizarro408@gmail.com) :) ✨
 - 💬 ask me about anything, i am happy to help;
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -30,27 +30,20 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ----------------------------------------------------------------------------------------------------------
 
-
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/3wawyq5D">
+  <img align="left" alt="tech-prime5's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/Mo_Talent">
+  <img align="left" alt="tech-prime5 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="tech-prime5's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="tech-prime5's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-
-<!---
-tech-prime5/tech-prime5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <br />
 
